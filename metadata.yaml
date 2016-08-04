@@ -1,0 +1,28 @@
+_repo: Knights-of-Art--Stories-of-the-Italian-Painters_529
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Steedman, Amy
+    gutenberg_agent_id: '274'
+    url: http://www.gutenberg.org/2009/agents/274
+description: ''
+gutenberg_bookshelf: Biographies
+gutenberg_issued: '1996-05-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '529'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'ND'
+- !lcsh 'Art -- Juvenile literature'
+- !lcsh 'Painters -- Italy'
+- GITenberg
+tableOfContents: Giotto -- Fra Angelico -- Masaccio -- Fra Filippo Lippi -- Sandro
+  Botticelli -- Domenico Ghirlandaio -- Filippino Lippi -- Pietro Perugino -- Leonardo
+  da Vinci -- Raphael -- Michelangelo -- Andrea del Sarto -- The Bellini -- Vittore
+  Carpaccio -- Giorgione -- Titian -- Tintoretto -- Paul Veronese.
+title: 'Knights of Art: Stories of the Italian Painters'
+url: http://www.gutenberg.org/ebooks/529
