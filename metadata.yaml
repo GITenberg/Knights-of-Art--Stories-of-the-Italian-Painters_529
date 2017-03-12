@@ -1,11 +1,16 @@
 _repo: Knights-of-Art--Stories-of-the-Italian-Painters_529
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Steedman, Amy
     gutenberg_agent_id: '274'
     url: http://www.gutenberg.org/2009/agents/274
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/529#Knights-of-Art--Stories-of-the-Italian-Painters
 gutenberg_bookshelf: Biographies
 gutenberg_issued: '1996-05-01'
 gutenberg_type: Text
